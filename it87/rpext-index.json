@@ -1,0 +1,14 @@
+{
+  "id": "zubyte.it87",
+  "url": "https://raw.githubusercontent.com/Zubyte/rp-ext/main/it87/rpext-index.json",
+  "info": {
+    "name": "it87",
+    "description": "Adds ITE IT87XX SuperIO Driver Support",
+    "author_url": "https://github.com/Zubyte",
+    "packer_url": "https://github.com/Zubyte/rp-ext/tree/main/it87",
+    "help_url": "<todo>"
+  },
+  "releases": {
+    "ds918p_42962": "releases/ds918p_42962.json",
+  }
+}

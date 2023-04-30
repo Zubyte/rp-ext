@@ -1,0 +1,27 @@
+{
+  "mod_version": "v1",
+
+  "files": [
+    {
+      "name": "it87.ko",
+      "url": "https://raw.githubusercontent.com/Zubyte/rp-ext/main/it87/releases/it87.ko",
+      "sha256": "d9a6d4a1aa38e473a695b70c8d09532170242c1db0761acee3278ad3fc2e2199",
+      "packed": false
+    },
+    {
+      "name": "check-it87.sh",
+      "url": "https://raw.githubusercontent.com/Zubyte/rp-ext/main/it87/src/check-it87.sh",
+      "sha256": "f4f5466bc12f30969bd11a5c79381687dc4325d473c3fb12f0e1224daf72d928",
+      "packed": false
+    }
+  ],
+
+  "kmods": {
+    "it87.ko": ""
+  },
+
+  "scripts": {
+    "on_boot": "check-it87.sh"
+  }
+
+}

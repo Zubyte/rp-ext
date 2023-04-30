@@ -9,6 +9,6 @@
     "help_url": "<todo>"
   },
   "releases": {
-    "ds918p_42962": "releases/ds918p_42962.json",
+    "ds918p_42962": "https://raw.githubusercontent.com/Zubyte/rp-ext/main/it87/releases/ds918p_42962.json",
   }
 }

@@ -3,20 +3,27 @@
 
   "files": [
     {
+      "name": "hwmod-vid.ko",
+      "url": "https://raw.githubusercontent.com/Zubyte/rp-ext/main/it87/releases/hwmod-vid.ko",
+      "sha256": "5881ad8e958e5b5c0c0fd029bb8cad9730e553c8ff74c7c141a957878bbe62f0",
+      "packed": false
+    },
+    {
       "name": "it87.ko",
       "url": "https://raw.githubusercontent.com/Zubyte/rp-ext/main/it87/releases/it87.ko",
-      "sha256": "d9a6d4a1aa38e473a695b70c8d09532170242c1db0761acee3278ad3fc2e2199",
+      "sha256": "a04c501c62e847f20f7186e6459225f8a42bb953e31fa1b2ae5522671ee7ab2b",
       "packed": false
     },
     {
       "name": "check-it87.sh",
       "url": "https://raw.githubusercontent.com/Zubyte/rp-ext/main/it87/src/check-it87.sh",
-      "sha256": "f4f5466bc12f30969bd11a5c79381687dc4325d473c3fb12f0e1224daf72d928",
+      "sha256": "4d142d350807a2b936cc383f9aeefab44abf9a0fdbf2f0794b7ccdc3ad974ac9",
       "packed": false
     }
   ],
 
   "kmods": {
+    "hwmon-vid.ko": "",
     "it87.ko": ""
   },
 

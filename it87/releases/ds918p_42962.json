@@ -3,7 +3,7 @@
 
   "files": [
     {
-      "name": "hwmod-vid.ko",
+      "name": "hwmon-vid.ko",
       "url": "https://raw.githubusercontent.com/Zubyte/rp-ext/main/it87/releases/hwmon-vid.ko",
       "sha256": "5881ad8e958e5b5c0c0fd029bb8cad9730e553c8ff74c7c141a957878bbe62f0",
       "packed": false
